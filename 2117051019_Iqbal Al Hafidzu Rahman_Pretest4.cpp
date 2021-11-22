@@ -1,6 +1,7 @@
 #include <iostream> 
 using namespace std;
 int main(){
+	//iqbal al hafidzu
 	int a;
 	int b;
 	bool c=true;
